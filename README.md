@@ -1,8 +1,8 @@
-## Happy Birthday!!!
+## Happy Wedding!!!
 
-### Wish someone special happy birthday in a special way.
+### Wish someone special happy wedding in a special way.
 
-It was a birthday of one of my friend and I wanted to wish her in a special way. So I put together this animated web page real quick to say Happy Birthday.
+It was a wedding of one of my friend and I wanted to wish her in a special way. So I put together this animated web page real quick to say Happy Wedding.
 
 Feel free to use it to wish your friend if you want.
 You can get it running in a few easy steps:
